@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ba410d7-23aa-4c25-9c77-a9967880f1b4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="649ddae8-b51a-430f-9226-3167b4f29e50" />
+  <component name="ProjectId" id="1htazVdbGKrjhgKJ7eUU0whXP6I" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ba410d7-23aa-4c25-9c77-a9967880f1b4" name="Default Changelist" comment="" />
+      <created>1600833107306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600833107306</updated>
+      <workItem from="1600833110838" duration="979000" />
+    </task>
+    <task id="LOCAL-00001" summary="update in pycharm">
+      <created>1600834355260</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600834355260</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update in pycharm" />
+    <option name="LAST_COMMIT_MESSAGE" value="update in pycharm" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="217" y="0" key="CommitChangelistDialog2" timestamp="1600834355031">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="217" y="0" key="CommitChangelistDialog2/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1600834355031" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog" timestamp="1600834643456">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1600834643456" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1600834595466">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1600834595466" />
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600834332887">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="438" y="321" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1280.800/1280.0.1920.1080@0.0.1280.800" timestamp="1600834332887" />
+  </component>
+</project>
