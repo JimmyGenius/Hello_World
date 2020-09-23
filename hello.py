@@ -1,0 +1,5 @@
+print('hello world')
+print('this is my first try of git')
+print('I first clone the project to my file')
+print('then I git add, git status, git commit -m, git push')
+print('finanlly, I have the access') 
